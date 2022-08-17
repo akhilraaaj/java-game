@@ -1,2 +1,2 @@
 # java-game
-A simple puzzle game made using java
+A simple puzzle game made using java.
